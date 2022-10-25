@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "HIVE_python_scripting_files",
+			"path": "../../HIVE/HIVE_python_scripting_files"
+		},
+		{
+			"name": "ARGOS-test-codes",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
