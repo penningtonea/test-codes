@@ -1,0 +1,11 @@
+>Feature "24610con Norovirus GII isolate NORO_141_02_11_2014, complete genome Consensus S"
+1	7504	SEQUENCE
+			24610con	consensus
+<1	7504	gene
+			gene	gene1
+<5	5094	CDS
+			product	product_a
+<5075	6697	CDS
+			product	product_b
+<6698	7503	CDS
+			product	product_c
